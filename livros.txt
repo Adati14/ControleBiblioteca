@@ -3,3 +3,5 @@ livro B
 livro c
 livro d
 livro e
+livro f
+livro g

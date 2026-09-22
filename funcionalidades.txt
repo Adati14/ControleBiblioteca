@@ -2,3 +2,4 @@ funcionalidade a
 funcionalidade b
 funcionalidade c
 funcionalidade d
+Renovar empréstimo
